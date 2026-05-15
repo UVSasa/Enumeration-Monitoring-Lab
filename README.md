@@ -2,7 +2,9 @@
 
 ## 📖 Overview
 
-In this cybersecurity lab, I focused on detecting early-stage attacker activity by monitoring for the execution of **reconnaissance** and **credential access tools** often used in real-world breaches. The goal was to simulate how attackers operate in the initial phases of an attack and build **Blue Team detections** using **Wazuh** and **Sysmon**.
+In this cybersecurity lab, I focused on detecting early-stage attacker activity by monitoring for the execution of **reconnaissance** and **credential access tools** often used in real-world breaches. The goal was to simulate how attackers operate in the initial phases of an attack and build **Blue Team detections** using **Wazuh** and **Sysmon**. 
+
+*Refrence Wazuh-Siem Repository for SIEM setup*.
 
 To achieve this, I created custom Wazuh rules that monitor **Sysmon Event ID 1 (Process Creation)** for suspicious process names commonly associated with attacker activity, including:
 
