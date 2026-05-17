@@ -62,5 +62,6 @@ Below is the rule I created and tested
 
 Now when I ran the command whoami from the command prompt or from powershell I received the alert below. Notice the description I put in the rule is what shows up in the logs.
 
-![image alt](https://github.com/user-attachments/assets/ec7b4573-0d02-447d-8da3-49dc3c386dfe)
+![image alt](<img width="1219" height="688" alt="Whoamilog" src="https://github.com/user-attachments/assets/e42586ef-b834-4855-94e1-7d78e98f3c80" />)
+
 
